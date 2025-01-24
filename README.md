@@ -54,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 [Muathe Jamil] - [muathejamil@gmail.com]
 
-Project Link: [https://github.com/muathejamil/currency_converter](https://github.com/yourusername/currency_converter)
+Project Link: [https://github.com/muathejamil/currency_converter](https://github.com/muathejamil/currency-converter-flutter)
